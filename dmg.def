@@ -276,7 +276,7 @@ entityDef damage_dmg_fly
 
 entityDef damage_dmg_splash 
 {
-	"damage"					"50"
+	"damage"					"20" // was 50
 	"radius"					"150"
 	"knockback"					"100"
 	"push"						"20000"
